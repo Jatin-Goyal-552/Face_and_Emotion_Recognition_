@@ -1,5 +1,8 @@
 # Face_and_Emotion_Recognition_
 A small project in deep learning and open cv.
-<p align="center">
-  <img src="result.png" width="350" title="hover text">
+
+Final Result :-
+
+<p align="center" widt>
+  <img src="result.png" width="500" >
 </p>
